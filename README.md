@@ -1,4 +1,4 @@
-greenloot
+GreenLoot
 =========
 
-loot greens
+Auto loot greens and blues in groups.
