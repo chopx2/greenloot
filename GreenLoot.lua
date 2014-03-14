@@ -1,4 +1,6 @@
 ## add variables
+## References http://wowprogramming.com/docs/api_categories
+## http://wowprogramming.com/docs/events
 
 RarityNames = { [0]="|cff9d9d9dDisabled|r", [2]="|cff1eff00Uncommon|r", [3]="|cff0070ddRare|r", [4]="|cffa335eeEpic|r" }
 
