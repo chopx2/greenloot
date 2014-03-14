@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: greenloot
+## Author: chopx2, Igneus
+## Version: 1.0
+## Notes: Auto loot greens!
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: greenloot
+GreenLoot.lua
